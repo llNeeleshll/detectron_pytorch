@@ -1,2 +1,2 @@
 *.pth
-/outputs
+drone_detection/output
