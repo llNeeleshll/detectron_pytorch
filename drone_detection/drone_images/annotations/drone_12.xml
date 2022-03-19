@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>drone_12.jpg</filename>
+	<path>/my-project-name/drone_12.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>3946</width>
+		<height>4932</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>drone</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>2114</xmin>
+			<ymin>266</ymin>
+			<xmax>3202</xmax>
+			<ymax>780</ymax>
+		</bndbox>
+	</object>
+</annotation>
